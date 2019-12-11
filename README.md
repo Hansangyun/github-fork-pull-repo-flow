@@ -1,2 +1,2 @@
-# Github Shared Repository flow
+# Fork & Pull Request Flow
 ## juan - justin
